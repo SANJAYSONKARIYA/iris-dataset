@@ -2,4 +2,4 @@ scikit-learn
 streamlit
 pandas
 plotly
-sklearn
+
